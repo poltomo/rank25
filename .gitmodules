@@ -1,0 +1,6 @@
+[submodule "baidu_ultr_dataset"]
+	path = baidu_ultr_dataset
+	url = git@github.com:poltomo/baidu_ultr_dataset.git
+[submodule "mercari-ml-merrec-pub-us"]
+	path = mercari-ml-merrec-pub-us
+	url = git@github.com:poltomo/mercari-ml-merrec-pub-us.git
